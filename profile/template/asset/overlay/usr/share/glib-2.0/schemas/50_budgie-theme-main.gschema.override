@@ -1,14 +1,14 @@
 
 
 [org.gnome.desktop.wm.preferences:Budgie]
-theme='Vimix-dark-ruby'
+theme='Win11-Dark'
 
 
 [org.gnome.desktop.interface:Budgie]
 cursor-theme='breeze_cursors'
 cursor-size=24
 gtk-key-theme='Default'
-gtk-theme='Vimix-dark-ruby'
+gtk-theme='Win11-Dark'
 icon-theme='Citrus-red-dark'
 color-scheme='prefer-dark'
 gtk-color-scheme=''
